@@ -28,7 +28,7 @@ Tested on the 20NG/R8/R52/Ohsumed/MR data set, the code on this repository can a
 ## Usage
 1. First clone the original pytorch TextGCN repository 
 `git clone https://github.com/chengsen/PyTorch_TextGCN.git`
-2. Then clone this repository `git clone https://github.com/WadeYin9712/CS247_proj.git`
+2. Then clone this repository `git clone https://github.com/Rkus990/TextGCN.git`
 3. Replace the `build_graph.py` and `trainer.py` files in the original pytorch TextGCN repository with our `build_graph.py` and `trainer.py`.
 4. Then in the original repo process the data first by running `data_processor.py` (Already done)
 2. Then run `build_graph.py` to generate all the graphs
